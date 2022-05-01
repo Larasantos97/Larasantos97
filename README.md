@@ -25,6 +25,4 @@
   <a href="https://www.linkedin.com/in/larissa-santos97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://acmeco.slack.com/team/U02SEQ2FTF1" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/Larasantos97/Larasantos97/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
