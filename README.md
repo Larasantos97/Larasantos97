@@ -1,7 +1,9 @@
 ### Olá, pessoal, sejam Bem-vindos ao meu Github! Me chamo Larissa Santos!👋
 
 - 📒 Estudante da 7ª geração do bootcamp da Laboratória Brasil
-- 🌱 Estou aprendendo JavaScript, CSS, HTML
+- 👨‍🎓 Estudante de análise e desenvolvimento de sistemas na Unicesumar
+- 🏢	Analista assistente
+- 🌱 JavaScript, CSS, HTML, Java
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato engraçado: Amo "ensinar" meus cachorrinhos coisas que estou aprendendo
 - 🎓Formada em técnica de enfermagem 
